@@ -64,39 +64,39 @@
 - [RescueTime](https://www.rescuetime.com/) (Time management)
 
 ## [Homebrew](http://brew.sh/) & Packages:
-ack
-ant
-autoconf			
-automake			
-bash				
-cmake	
-css-crush			
-ctags		
-dart		
-freetype			
-gdbm				
-gettext				
-git				
-hub	
-htmlcleaner
-htmlcompressor			
-jpeg				
-libevent			
-libpng	
-markdown			
-mysql
-node
-pcre
-php55
-pkg-config
-readline
-reattach-to-user-namespace
-sqlite
-the_silver_searcher
-tmux
-wget
-xz
-yuicompressor
-zlib
-zsh		
+- ack
+- ant
+- autoconf			
+- automake			
+- bash				
+- cmake	
+- css-crush			
+- ctags		
+- dart		
+- freetype			
+- gdbm				
+- gettext				
+- git				
+- hub
+- htmlcleaner
+- htmlcompressor			
+- jpeg				
+- libevent			
+- libpng	
+- markdown			
+- mysql
+- node
+- pcre
+- php55
+- pkg-config
+- readline
+- reattach-to-user-namespace
+- sqlite
+- the_silver_searcher
+- tmux
+- wget
+- xz
+- yuicompressor
+- zlib
+- zsh		
 
