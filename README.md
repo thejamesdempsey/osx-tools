@@ -64,65 +64,39 @@
 - [RescueTime](https://www.rescuetime.com/) (Time management)
 
 ## [Homebrew](http://brew.sh/) & Packages:
-- ack
-- ant
-- aws-cfn-tools
-- aws-elasticache
-- aws-elasticbeanstalk
-- aws-iam-tools
-- aws-sns-cli
-- cloc
-- cmake
-- cloud-watch
-- closure-compiler
-- coda-cli
-- coreutils
-- css-crush
-- dart
-- debianutils
-- erlang
-- fswatch
-- ffmpeg
-- findbugs
-- fuzzy-find
-- gettext
-- gnutls
-- graphviz
-- hfsutils
-- htop
-- htmlcleaner
-- htmlcompressor
-- httping
-- http_load
-- imagemagick
-- jmeter
-- jenkins
-- jvmtop
-- lighttpd
-- markdown
-- maven
-- memcached
-- mongodb
-- nagios
-- nettle
-- nginx
-- nmap
-- node
-- opencv
-- osxutils
-- phantomjs
-- pstree
-- psutils
-- resty
-- readline
-- renameutils
-- riak
-- scala
-- sloccount
-- the_silver_searcher
-- unrar
-- varnish
-- v8
-- watch
-- wget
+ack
+ant
+autoconf			
+automake			
+bash				
+cmake	
+css-crush			
+ctags		
+dart		
+freetype			
+gdbm				
+gettext				
+git				
+hub	
+htmlcleaner
+htmlcompressor			
+jpeg				
+libevent			
+libpng	
+markdown			
+mysql
+node
+pcre
+php55
+pkg-config
+readline
+reattach-to-user-namespace
+sqlite
+the_silver_searcher
+tmux
+wget
+xz
+yuicompressor
+zlib
+zsh		
 
