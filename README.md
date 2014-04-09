@@ -1,5 +1,16 @@
 # OSX Tools
 
+---
+
+## Table of Contents
+* [Applications](#applications)
+** [Basics](#basics)
+** [Dev/Design](#devdesign)
+** [Utilities](#utilities)
+* [Homebrew and Packages](#homebrew--packages)
+
+---
+ 
 ## Applications
 
 ### Basics
@@ -14,7 +25,23 @@
 - Pages(Text)
 - Rdio(Music)
 - Skype(Video Chat)
-===
+
+### Dev/Design
+- Adobe Photoshop CC (Image Editing)
+- Adobe Illustrator CC (Graphics Creation)
+- Asepsis(.DS_Store Handling)
+- Charles(Proxy)
+- Codekit(Compiler, dev manager, etc)
+- Dash(Docset Viewer)
+- iA Writer (MD editor)
+- Kaleidoscope (Diff Tool)
+- LittleIpsum (Little Ipsum Generator)
+- RegExhibit(RegExp Tester)
+- TextMate(Text Edit)
+- Throng (Site Load Tester)
+- Transmit (FTP/SCP)
+- Tower (Git GUI)
+- VisualJSON/VisualXML (File Formatter)
 
 ### Utilities
 - 1Password(Password and App Serial Manager)
@@ -36,25 +63,6 @@
 - Miro Video Converter (Media Converter)
 - Pocket (Website Collector)
 - RescueTime(Time management)
-===
-
-### Dev/Design
-- Adobe Photoshop CC (Image Editing)
-- Adobe Illustrator CC (Graphics Creation)
-- Asepsis(.DS_Store Handling)
-- Charles(Proxy)
-- Codekit(Compiler, dev manager, etc)
-- Dash(Docset Viewer)
-- iA Writer (MD editor)
-- Kaleidoscope (Diff Tool)
-- LittleIpsum (Little Ipsum Generator)
-- RegExhibit(RegExp Tester)
-- TextMate(Text Edit)
-- Throng (Site Load Tester)
-- Transmit (FTP/SCP)
-- Tower (Git GUI)
-- VisualJSON/VisualXML (File Formatter)
-===
 
 ## Homebrew & Packages:
 - ack
