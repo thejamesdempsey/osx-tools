@@ -4,9 +4,9 @@
 
 ## Table of Contents
 * [Applications](#applications)
-** [Basics](#basics)
-** [Dev/Design](#devdesign)
-** [Utilities](#utilities)
+	* [Basics](#basics)
+	* [Dev/Design](#devdesign)
+	* [Utilities](#utilities)
 * [Homebrew and Packages](#homebrew--packages)
 
 ---
