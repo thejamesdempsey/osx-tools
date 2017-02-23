@@ -22,7 +22,7 @@
 - [Microsoft Office](http://www.microsoft.com/mac) (Text, Spreadsheets, etc)
 - [Simplenote](http://simplenote.com/) (Note Taking, Simple and syncs right away to my phone)
 - [Skype](http://www.skype.com/en/download-skype/skype-for-computer/) (Video Chat)
-- [Slack](https://slack.com/) (Office IM Client) 
+- [Slack](https://slack.com/) (Office IM) 
 - [Spotify](https://www.spotify.com/) (Music)
 - [Wunderlist](https://www.wunderlist.com/) (Getting Stuff Done)
 - [YNAB](http://www.youneedabudget.com/) (Budgeting and Money)
